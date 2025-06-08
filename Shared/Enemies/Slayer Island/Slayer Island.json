@@ -1,0 +1,95 @@
+{
+  "Ruih": {
+    "Difficult": "Medium",
+    "Health": "45K",
+    "Name": "Ruih"
+  },
+  "Enmo": {
+    "Difficult": "Easy",
+    "Health": "17.5K",
+    "Name": "Enmo"
+  },
+  "Kokoshibo": {
+    "Difficult": "Boss",
+    "Health": "850K",
+    "Name": "Kokoshibo"
+  },
+  "Susamaro": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Relic",
+        "SlayerBox",
+        70
+      ],
+      [
+        "Item",
+        "TalentCapsule",
+        50
+      ]
+    ],
+    "Health": "2.5M",
+    "Name": "Susamaro"
+  },
+  "Dake": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Relic",
+        "DrumOni",
+        50
+      ],
+      [
+        "Item",
+        "TalentCapsule",
+        50
+      ]
+    ],
+    "Health": "12.5M",
+    "Name": "Dake"
+  },
+  "Gyutaru": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Relic",
+        "PinkBands",
+        50
+      ],
+      [
+        "Item",
+        "TalentCapsule",
+        50
+      ]
+    ],
+    "Health": "35M",
+    "Name": "Gyutaru"
+  },
+  "Akazha": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Relic",
+        "MuzansClaw",
+        50
+      ],
+      [
+        "Item",
+        "TalentCapsule",
+        50
+      ]
+    ],
+    "Health": "100M",
+    "Name": "Akazha"
+  },
+  "Hantego": {
+    "Difficult": "Hard",
+    "Health": "115K",
+    "Name": "Hantego"
+  },
+  "Dhoma": {
+    "Difficult": "Impossible",
+    "Health": "300K",
+    "Name": "Dhoma"
+  }
+}

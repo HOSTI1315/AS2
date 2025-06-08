@@ -1,0 +1,16 @@
+{
+  "MaxLevel": 45,
+  "Rarity_Price": {
+    "Common": 0.15,
+    "Exclusive": 7,
+    "Rare": 0.3,
+    "Secret": 7,
+    "Mythical": 3,
+    "Legendary": 0.7,
+    "Epic": 0.5
+  },
+  "Pity": {
+    "Legendary": 500,
+    "Mythical": 7500
+  }
+}

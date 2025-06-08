@@ -1,0 +1,34 @@
+{
+  "Marine Island": {
+    "badge": 2741264705535042,
+    "Coins_Multiplier": 0.125,
+    "Price": "5.5M",
+    "Index": 4,
+    "Damage_Multiplier": 30,
+    "Name": "Marine Island"
+  },
+  "Slayer Island": {
+    "badge": 2038857660950398,
+    "Coins_Multiplier": 0.075,
+    "Price": "15K",
+    "Index": 2,
+    "Damage_Multiplier": 3,
+    "Name": "Slayer Island"
+  },
+  "Dragon World": {
+    "badge": 3436857878475014,
+    "Coins_Multiplier": 0.1,
+    "Price": "200K",
+    "Index": 3,
+    "Damage_Multiplier": 10,
+    "Name": "Dragon World"
+  },
+  "Shadow City": {
+    "badge": 967559328924149,
+    "Coins_Multiplier": 0.05,
+    "Price": "0",
+    "Index": 1,
+    "Damage_Multiplier": 1,
+    "Name": "Shadow City"
+  }
+}

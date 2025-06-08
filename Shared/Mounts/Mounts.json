@@ -1,0 +1,37 @@
+{
+  "Whale": {
+    "Rarity": "Mythical",
+    "Icon": "rbxassetid://139025281575276",
+    "Desc": "Big, cute, and ready to splash water everywhere",
+    "Speed": 30,
+    "Name": "Whale"
+  },
+  "TanjiruBox": {
+    "Rarity": "Exclusive",
+    "Icon": "rbxassetid://112089650221034",
+    "Desc": "Feel comfortable on a trip in the box",
+    "Speed": 30,
+    "Name": "Tanjiru Box"
+  },
+  "Dragon": {
+    "Rarity": "Mythical",
+    "Icon": "rbxassetid://126928624970679",
+    "Desc": "This mount allows you to fly around maps with style",
+    "Speed": 30,
+    "Name": "Dragon"
+  },
+  "Phoenix": {
+    "Rarity": "Legendary",
+    "Icon": "rbxassetid://74672223888238",
+    "Desc": "This mount allows you to fly around maps with style",
+    "Speed": 20,
+    "Name": "Phoenix"
+  },
+  "Shuriken": {
+    "Rarity": "Exclusive",
+    "Icon": "rbxassetid://116656810482682",
+    "Desc": "Become a real ninja with this mount",
+    "Speed": 10,
+    "Name": "Shuriken"
+  }
+}

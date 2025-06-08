@@ -1,0 +1,356 @@
+{
+  "Luck II": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 4 hours",
+      "Amount": 240
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck II"
+  },
+  "Damage II": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 10,000 Stars",
+      "Amount": 10000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage II"
+  },
+  "Luck V": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 240 hours (10 Day)",
+      "Amount": 14400
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Hard",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck V"
+  },
+  "Inventory I": {
+    "Mission": {
+      "World": "Shadow City",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Shadow City",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory I"
+  },
+  "Inventory IV": {
+    "Mission": {
+      "World": "Marine Island",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Marine Island",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Medium",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory IV"
+  },
+  "Trial V": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 30 of Trial",
+      "Amount": 30
+    },
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Obtain more coins from your defeated enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial V"
+  },
+  "Trial III": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 15 of Trial",
+      "Amount": 15
+    },
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Obtain more coins from your defeated enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial III"
+  },
+  "Luck III": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 24 hours (1 Day)",
+      "Amount": 1440
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck III"
+  },
+  "Inventory III": {
+    "Mission": {
+      "World": "Dragon World",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Dragon World",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory III"
+  },
+  "Damage VI": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 2,500,000 Stars",
+      "Amount": 2500000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage VI"
+  },
+  "Damage III": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 50,000 Stars",
+      "Amount": 50000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage III"
+  },
+  "Luck VI": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 480 hours (20 Day)",
+      "Amount": 28800
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Hard",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck VI"
+  },
+  "Trial VII": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 50 of Trial",
+      "Amount": 50
+    },
+    "Perks": {
+      "Extra Equip": 1
+    },
+    "Difficult": "Impossible",
+    "Desc": "Equip more shadows to cause more damage",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial VII"
+  },
+  "Damage V": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 1,000,000 Stars",
+      "Amount": 1000000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage V"
+  },
+  "Luck I": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 30 minutes",
+      "Amount": 30
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Easy",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck I"
+  },
+  "Luck IV": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 96 hours (4 Day)",
+      "Amount": 5760
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck IV"
+  },
+  "Luck VII": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 720 hours (30 Day)",
+      "Amount": 43200
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Impossible",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck VII"
+  },
+  "Trial IV": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 20 of Trial",
+      "Amount": 20
+    },
+    "Perks": {
+      "Extra Open": 1
+    },
+    "Difficult": "Hard",
+    "Desc": "Spin more stars at once",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial IV"
+  },
+  "Trial II": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 10 of Trial",
+      "Amount": 10
+    },
+    "Perks": {
+      "Extra Open": 1
+    },
+    "Difficult": "Medium",
+    "Desc": "Spin more stars at once",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial II"
+  },
+  "Damage I": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 1,000 Stars",
+      "Amount": 1000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Easy",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage I"
+  },
+  "Trial VI": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 40 of Trial",
+      "Amount": 40
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial VI"
+  },
+  "Damage IV": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 250,000 Stars",
+      "Amount": 250000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage IV"
+  },
+  "Damage VII": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 5,000,000 Stars",
+      "Amount": 5000000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Impossible",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage VII"
+  },
+  "Trial I": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 5 of Trial",
+      "Amount": 5
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Easy",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial I"
+  },
+  "Inventory II": {
+    "Mission": {
+      "World": "Slayer Island",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Slayer Island",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory II"
+  }
+}

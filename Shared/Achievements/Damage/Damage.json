@@ -1,0 +1,100 @@
+{
+  "Damage VI": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 2,500,000 Stars",
+      "Amount": 2500000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage VI"
+  },
+  "Damage II": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 10,000 Stars",
+      "Amount": 10000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage II"
+  },
+  "Damage I": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 1,000 Stars",
+      "Amount": 1000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Easy",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage I"
+  },
+  "Damage IV": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 250,000 Stars",
+      "Amount": 250000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage IV"
+  },
+  "Damage VII": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 5,000,000 Stars",
+      "Amount": 5000000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Impossible",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage VII"
+  },
+  "Damage V": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 1,000,000 Stars",
+      "Amount": 1000000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage V"
+  },
+  "Damage III": {
+    "Mission": {
+      "Type": "Star Open",
+      "Desc": "Open 50,000 Stars",
+      "Amount": 50000
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://106414871119455",
+    "Name": "Damage III"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Level": 5,
+  "List": [
+    [
+      "Common",
+      "Nezoko"
+    ],
+    [
+      "Common",
+      "Inosuki"
+    ],
+    [
+      "Rare",
+      "Zenitso"
+    ],
+    [
+      "Epic",
+      "Tanjiru"
+    ],
+    [
+      "Legendary",
+      "Shinobo"
+    ],
+    [
+      "Mythical",
+      "Rengoko"
+    ],
+    [
+      "Secret",
+      "Yoriche"
+    ]
+  ],
+  "Price": "750",
+  "Luck_Boost": 1,
+  "Name": "Slayer Island"
+}

@@ -1,0 +1,100 @@
+{
+  "Trial VII": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 50 of Trial",
+      "Amount": 50
+    },
+    "Perks": {
+      "Extra Equip": 1
+    },
+    "Difficult": "Impossible",
+    "Desc": "Equip more shadows to cause more damage",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial VII"
+  },
+  "Trial III": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 15 of Trial",
+      "Amount": 15
+    },
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Difficult": "Medium",
+    "Desc": "Obtain more coins from your defeated enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial III"
+  },
+  "Trial VI": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 40 of Trial",
+      "Amount": 40
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial VI"
+  },
+  "Trial I": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 5 of Trial",
+      "Amount": 5
+    },
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Difficult": "Easy",
+    "Desc": "Deal more damage to your enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial I"
+  },
+  "Trial II": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 10 of Trial",
+      "Amount": 10
+    },
+    "Perks": {
+      "Extra Open": 1
+    },
+    "Difficult": "Medium",
+    "Desc": "Spin more stars at once",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial II"
+  },
+  "Trial V": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 30 of Trial",
+      "Amount": 30
+    },
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Difficult": "Hard",
+    "Desc": "Obtain more coins from your defeated enemies",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial V"
+  },
+  "Trial IV": {
+    "Mission": {
+      "Type": "Trial",
+      "Desc": "Reach room 20 of Trial",
+      "Amount": 20
+    },
+    "Perks": {
+      "Extra Open": 1
+    },
+    "Difficult": "Hard",
+    "Desc": "Spin more stars at once",
+    "Icon": "rbxassetid://131791020458769",
+    "Name": "Trial IV"
+  }
+}

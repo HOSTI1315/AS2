@@ -1,0 +1,26 @@
+{
+  "TalentCapsule": {
+    "Icon": "rbxassetid://99484777677506",
+    "Desc": "Used to improve your shadow's talents (Obtained in Trial)",
+    "Rarity": "Mythical",
+    "Name": "Talent Capsule"
+  },
+  "TraitShard": {
+    "Icon": "rbxassetid://131696886138489",
+    "Desc": "Used to reroll your shadow's traits (Obtained in Trial)",
+    "Rarity": "Mythical",
+    "Name": "Trait Shard"
+  },
+  "StarShard": {
+    "Icon": "rbxassetid://114429940526128",
+    "Desc": "Used to ascend your shadow (Obtained in Trial)",
+    "Rarity": "Legendary",
+    "Name": "Star Shard"
+  },
+  "PlasmaShard": {
+    "Icon": "rbxassetid://70819498513296",
+    "Desc": "Used to improve your accessory statistics (Obtained in Marine Island)",
+    "Rarity": "Epic",
+    "Name": "Plasma Shard"
+  }
+}

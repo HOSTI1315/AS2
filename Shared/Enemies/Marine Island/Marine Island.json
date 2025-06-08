@@ -1,0 +1,44 @@
+{
+  "Kaku": {
+    "Difficult": "Easy",
+    "Health": "550K",
+    "Name": "Kaku"
+  },
+  "Shiriu": {
+    "Difficult": "Medium",
+    "Health": "1.5M",
+    "Name": "Shiriu"
+  },
+  "Crocodele": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Relic",
+        "SandCloak",
+        10
+      ],
+      [
+        "Item",
+        "PlasmaShard",
+        50
+      ]
+    ],
+    "Health": "250M",
+    "Name": "Crocodele"
+  },
+  "Buggi": {
+    "Difficult": "Boss",
+    "Health": "50M",
+    "Name": "Buggi"
+  },
+  "Figarlend": {
+    "Difficult": "Impossible",
+    "Health": "17.5M",
+    "Name": "Figarlend"
+  },
+  "Riokugiu": {
+    "Difficult": "Hard",
+    "Health": "5M",
+    "Name": "Riokugiu"
+  }
+}

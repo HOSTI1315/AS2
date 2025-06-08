@@ -1,0 +1,36 @@
+{
+  "Level": 1,
+  "List": [
+    [
+      "Common",
+      "WeakestHunter"
+    ],
+    [
+      "Common",
+      "Jinhoo"
+    ],
+    [
+      "Rare",
+      "Baek"
+    ],
+    [
+      "Epic",
+      "Hae"
+    ],
+    [
+      "Legendary",
+      "Hwan"
+    ],
+    [
+      "Mythical",
+      "Igros"
+    ],
+    [
+      "Secret",
+      "Sung"
+    ]
+  ],
+  "Price": "10",
+  "Luck_Boost": 1.5,
+  "Name": "Shadow City"
+}

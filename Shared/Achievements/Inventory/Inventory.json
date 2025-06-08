@@ -1,0 +1,62 @@
+{
+  "Inventory I": {
+    "Mission": {
+      "World": "Shadow City",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Shadow City",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory I"
+  },
+  "Inventory IV": {
+    "Mission": {
+      "World": "Marine Island",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Marine Island",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Medium",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory IV"
+  },
+  "Inventory III": {
+    "Mission": {
+      "World": "Dragon World",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Dragon World",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory III"
+  },
+  "Inventory II": {
+    "Mission": {
+      "World": "Slayer Island",
+      "Type": "Obtain Shadows",
+      "Desc": "Obtain 5 different shadows in Slayer Island",
+      "Amount": 5
+    },
+    "Perks": {
+      "Inventory": 10
+    },
+    "Difficult": "Easy",
+    "Desc": "Increase your inventory slots",
+    "Icon": "rbxassetid://116880257394547",
+    "Name": "Inventory II"
+  }
+}

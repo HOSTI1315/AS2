@@ -1,0 +1,67 @@
+{
+  "LuffeHat": {
+    "Icon": "rbxassetid://106462107769428",
+    "Perks": {
+      "Coins": 0.225
+    },
+    "Rarity": "Mythical",
+    "Name": "Luffe Hat"
+  },
+  "OdenBelt": {
+    "Icon": "rbxassetid://123991336361103",
+    "Perks": {
+      "Damage": 0.25
+    },
+    "Rarity": "Mythical",
+    "Name": "Oden Belt"
+  },
+  "SandCloak": {
+    "Icon": "rbxassetid://76063356267191",
+    "Perks": {
+      "Ultimate Damage": 0.2
+    },
+    "Rarity": "Legendary",
+    "Name": "Sand Cloak"
+  },
+  "PinkBands": {
+    "Icon": "rbxassetid://139793844651517",
+    "Perks": {
+      "Damage": 0.15
+    },
+    "Rarity": "Legendary",
+    "Name": "Pink Bands"
+  },
+  "InfiniteClock": {
+    "Icon": "rbxassetid://70575946472426",
+    "Perks": {
+      "Coins": 0.1,
+      "Damage": 0.17
+    },
+    "Rarity": "Mythical",
+    "Name": "Infinite Clock"
+  },
+  "DrumOni": {
+    "Icon": "rbxassetid://105814605201290",
+    "Perks": {
+      "Experience": 0.075
+    },
+    "Rarity": "Epic",
+    "Name": "Drum Oni"
+  },
+  "SlayerBox": {
+    "Icon": "rbxassetid://72255492663626",
+    "Perks": {
+      "Coins": 0.125
+    },
+    "Rarity": "Rare",
+    "Name": "Slayer Box"
+  },
+  "MuzansClaw": {
+    "Icon": "rbxassetid://113980020391136",
+    "Perks": {
+      "Luck": 0.025
+    },
+    "Rarity": "Mythical",
+    "Name": "Muzans Claw"
+  }
+}
