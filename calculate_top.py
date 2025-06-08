@@ -88,6 +88,50 @@ def calculate_stats_with_multiplier(player: Dict[str, Any], base: Dict[str, Any]
     final = total / 10 ** power + 0.3
     return math.floor(final) * 10 ** power
 
+def calculate_ultimate_stats(player: Dict[str, Any], base: Dict[str, Any], unit: Dict[str, Any], rarity_mult: float, boost_mult: float) -> float:
+    dmg = base.get('Damage', 0) * base.get('Ultimate_Multiplier', 1)
+    level_mult = 3 ** (unit.get('Level', 1) / 10)
+    trait_data = traits.get(unit.get('Trait'), {})
+    trait_mult = 1 + trait_data.get('Perks', {}).get('DMG', 0)
+
+    relic_mult = 1
+    if unit.get('Relic') and unit['Relic'] in player.get('Relics', {}):
+        relic_name = player['Relics'][unit['Relic']]['Name']
+        relic_data = relics.get(relic_name, {})
+        relic_mult += relic_data.get('Perks', {}).get('Damage', 0)
+        relic_mult += relic_data.get('Perks', {}).get('Ultimate Damage', 0)
+
+    accessory_mult = 1
+    if unit.get('Accessory') and unit['Accessory'] in player.get('Accessories', {}):
+        acc_info = player['Accessories'][unit['Accessory']]
+        acc_data = accessories.get(acc_info['Name'], {})
+        acc_bonus = acc_data.get('Perks', {}).get('Damage', 0)
+        accessory_mult += acc_bonus
+        accessory_mult += acc_bonus * forge_stats.get(acc_info.get('Rank', 'E'), 0)
+
+    talent_mult = 1 + talent_stats['AbilityDamage'].get(unit.get('AbilityDamage', unit.get('DamageHit', 'E')), 0)
+
+    asc = unit.get('Ascension', 0)
+    if asc >= 3:
+        asc_mult = 1.3
+    elif asc >= 2:
+        asc_mult = 1.15
+    elif asc >= 1:
+        asc_mult = 1.05
+    else:
+        asc_mult = 1
+
+    total = dmg * level_mult * trait_mult * relic_mult * accessory_mult * asc_mult * talent_mult
+    if unit.get('Shiny'):
+        total *= 1.75
+    total *= rarity_mult * boost_mult
+
+    log_val = math.log10(total)
+    floor_val = math.floor(log_val) - 1
+    power = max(floor_val, 0)
+    final = total / 10 ** power + 0.3
+    return math.floor(final) * 10 ** power
+
 def get_damage(player: Dict[str, Any], base: Dict[str, Any], unit: Dict[str, Any]) -> float:
     mult = boosts_damage(player)
     mult = max(mult, 1)
@@ -95,7 +139,14 @@ def get_damage(player: Dict[str, Any], base: Dict[str, Any], unit: Dict[str, Any
         return 0
     return calculate_stats_with_multiplier(player, base, unit, calculate_stats(base, unit), mult)
 
-def format_line(name: str, dmg: float, dps: float, args: argparse.Namespace) -> str:
+def get_ultimate_damage(player: Dict[str, Any], base: Dict[str, Any], unit: Dict[str, Any]) -> float:
+    mult = boosts_damage(player)
+    mult = max(mult, 1)
+    if not base or not base.get('Rarity'):
+        return 0
+    return calculate_ultimate_stats(player, base, unit, calculate_stats(base, unit), mult)
+
+def format_line(name: str, dmg: float, dps: float, args: argparse.Namespace, ult_dmg: float = None, ult_dps: float = None) -> str:
     parts = [
         name,
         f"Trait:{args.trait or 'None'}",
@@ -109,6 +160,9 @@ def format_line(name: str, dmg: float, dps: float, args: argparse.Namespace) -> 
         f"DMG:{dmg}",
         f"DPS:{dps}"
     ]
+    if ult_dmg is not None and ult_dps is not None:
+        parts.append(f"ULT:{ult_dmg}")
+        parts.append(f"ULT_DPS:{ult_dps}")
     return " | ".join(parts)
 
 def main():
@@ -121,6 +175,7 @@ def main():
     parser.add_argument('--ascension', type=int, default=0)
     parser.add_argument('--shiny', action='store_true')
     parser.add_argument('--damage-hit', default='E')
+    parser.add_argument('--ability-damage', default=None)
     parser.add_argument('--damage-potion', action='store_true')
     parser.add_argument('--achievement', action='append', default=[])
 
@@ -139,6 +194,7 @@ def main():
         'Accessory': None,
         'Ascension': args.ascension,
         'DamageHit': args.damage_hit,
+        'AbilityDamage': args.ability_damage or args.damage_hit,
         'Shiny': args.shiny
     }
     if args.relic:
@@ -158,21 +214,31 @@ def main():
     for name, data in shadows.items():
         dmg = get_damage(player, data, unit)
         dps = dmg / data.get('SPA', 1)
-        results.append({'name': name, 'dmg': dmg, 'dps': dps})
+        ult = get_ultimate_damage(player, data, unit)
+        ult_dps = ult / data.get('SPA', 1)
+        results.append({'name': name, 'dmg': dmg, 'dps': dps, 'ult': ult, 'ult_dps': ult_dps})
 
     by_dmg = sorted(results, key=lambda x: x['dmg'], reverse=True)
     by_dps = sorted(results, key=lambda x: x['dps'], reverse=True)
+    by_ult = sorted(results, key=lambda x: x['ult'], reverse=True)
+    by_ult_dps = sorted(results, key=lambda x: x['ult_dps'], reverse=True)
 
     with open('top_characters.txt', 'w') as f:
         f.write('Top 10 by DMG:\n')
         for entry in by_dmg[:10]:
-            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args) + '\n')
+            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args, entry['ult'], entry['ult_dps']) + '\n')
         f.write('\nTop 10 by DPS:\n')
         for entry in by_dps[:10]:
-            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args) + '\n')
+            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args, entry['ult'], entry['ult_dps']) + '\n')
+        f.write('\nTop 10 by ULT DMG:\n')
+        for entry in by_ult[:10]:
+            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args, entry['ult'], entry['ult_dps']) + '\n')
+        f.write('\nTop 10 by ULT DPS:\n')
+        for entry in by_ult_dps[:10]:
+            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args, entry['ult'], entry['ult_dps']) + '\n')
         f.write('\nFull Table:\n')
         for entry in by_dmg:
-            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args) + '\n')
+            f.write(format_line(entry['name'], entry['dmg'], entry['dps'], args, entry['ult'], entry['ult_dps']) + '\n')
 
 if __name__ == '__main__':
     main()
