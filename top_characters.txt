@@ -1,0 +1,56 @@
+Top 10 by DMG:
+Rogeri | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:150 | DPS:120.0
+Hawk | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:140 | DPS:112.0
+Gogita | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Luffi | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Sung | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Yoriche | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Edwerd | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:72 | DPS:55.38461538461538
+SonGoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:69 | DPS:53.07692307692307
+Rengoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:65 | DPS:50.0
+Igros | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:62 | DPS:47.69230769230769
+
+Top 10 by DPS:
+Rogeri | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:150 | DPS:120.0
+Hawk | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:140 | DPS:112.0
+Gogita | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Luffi | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Sung | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Yoriche | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Edwerd | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:72 | DPS:55.38461538461538
+SonGoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:69 | DPS:53.07692307692307
+Rengoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:65 | DPS:50.0
+Igros | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:62 | DPS:47.69230769230769
+
+Full Table:
+Rogeri | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:150 | DPS:120.0
+Hawk | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:140 | DPS:112.0
+Gogita | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Luffi | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:130 | DPS:104.0
+Sung | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Yoriche | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:120 | DPS:96.0
+Edwerd | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:72 | DPS:55.38461538461538
+SonGoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:69 | DPS:53.07692307692307
+Rengoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:65 | DPS:50.0
+Igros | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:62 | DPS:47.69230769230769
+Baruke | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:54 | DPS:40.0
+Marce | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:41 | DPS:29.28571428571429
+Vegita | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:39 | DPS:27.857142857142858
+Shinobo | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:37 | DPS:26.42857142857143
+Hwan | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:35 | DPS:25.0
+Kume | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:27 | DPS:18.620689655172413
+Whes | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:26 | DPS:17.931034482758623
+Tanjiru | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:24 | DPS:16.551724137931036
+Hae | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:23 | DPS:15.862068965517242
+Zoru | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:18 | DPS:12.0
+Piccolu | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:17 | DPS:11.333333333333334
+Zenitso | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:16 | DPS:10.666666666666666
+Baek | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:15 | DPS:10.0
+Sabu | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:9 | DPS:5.806451612903226
+Kobi | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:9 | DPS:5.806451612903226
+Trunkis | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
+Kurerin | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
+WeakestHunter | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
+Jinhoo | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
+Inosuki | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
+Nezoko | Trait:None | Relic:None | Accessory:None | Rank:- | Ascension:0 | Level:1 | DamageHit:E | Shiny:False | DMG:8 | DPS:5.161290322580645
