@@ -1,0 +1,75 @@
+{
+  "SogeMask": {
+    "Icon": "rbxassetid://112860369255216",
+    "Perks": {
+      "Damage": 0.15
+    },
+    "Rarity": "Mythical",
+    "Name": "Soge Mask"
+  },
+  "RoundPurple": {
+    "Icon": "rbxassetid://84774984193036",
+    "Perks": {
+      "Damage": 0.125
+    },
+    "Rarity": "Mythical",
+    "Name": "Round Purple"
+  },
+  "GranolaEyes": {
+    "Icon": "rbxassetid://121369666264126",
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Rarity": "Common",
+    "Name": "Granola Eyes"
+  },
+  "Kami": {
+    "Icon": "rbxassetid://139829247986659",
+    "Perks": {
+      "Damage": 0.05
+    },
+    "Rarity": "Rare",
+    "Name": "Kami"
+  },
+  "GreenPower": {
+    "Icon": "rbxassetid://122627702113872",
+    "Perks": {
+      "Coins": 0.1
+    },
+    "Rarity": "Epic",
+    "Name": "Green Power"
+  },
+  "BluePower": {
+    "Icon": "rbxassetid://89924760195140",
+    "Perks": {
+      "Experience": 0.075
+    },
+    "Rarity": "Legendary",
+    "Name": "Blue Power"
+  },
+  "RedPower": {
+    "Icon": "rbxassetid://125491597199883",
+    "Perks": {
+      "Experience": 0.025
+    },
+    "Rarity": "Rare",
+    "Name": "Red Power"
+  },
+  "MaskBreaker": {
+    "Icon": "rbxassetid://124632472285137",
+    "Perks": {
+      "Coins": 0.075,
+      "Damage": 0.075
+    },
+    "Rarity": "Mythical",
+    "Name": "Mask Breaker"
+  },
+  "SayanPrince": {
+    "Icon": "rbxassetid://103010658433611",
+    "Perks": {
+      "Damage": 0.1
+    },
+    "Rarity": "Mythical",
+    "Name": "Sayan Prince"
+  }
+}

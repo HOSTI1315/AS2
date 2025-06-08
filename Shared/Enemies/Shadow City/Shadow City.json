@@ -1,0 +1,32 @@
+{
+  "DummyTest": {
+    "Difficult": "Test",
+    "Health": Infinity,
+    "Name": "Dummy Test"
+  },
+  "SwordGuardian": {
+    "Difficult": "Hard",
+    "Health": "7.5K",
+    "Name": "Sword Guardian"
+  },
+  "SingerGuardian": {
+    "Difficult": "Impossible",
+    "Health": "35K",
+    "Name": "Singer Guardian"
+  },
+  "AxeGuardian": {
+    "Difficult": "Medium",
+    "Health": "1300",
+    "Name": "Axe Guardian"
+  },
+  "MaceGuardian": {
+    "Difficult": "Easy",
+    "Health": "225",
+    "Name": "Mace Guardian"
+  },
+  "KingGuardian": {
+    "Difficult": "Boss",
+    "Health": "125K",
+    "Name": "King Guardian"
+  }
+}

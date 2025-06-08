@@ -1,0 +1,144 @@
+{
+  "Swift II": {
+    "Icon": "rbxassetid://95288582793750",
+    "Perks": {
+      "SPA": 0.05
+    },
+    "Rarity": "Rare",
+    "Name": "Swift II"
+  },
+  "Wisdom": {
+    "Icon": "rbxassetid://90140179592494",
+    "Perks": {
+      "EXP": 0.25,
+      "Luck": 0.15
+    },
+    "Rarity": "Mythical",
+    "Name": "Wisdom"
+  },
+  "Strongest": {
+    "Icon": "rbxassetid://119186025303524",
+    "Perks": {
+      "DMG": 0.65
+    },
+    "Rarity": "Mythical",
+    "Name": "Strongest"
+  },
+  "Viking": {
+    "Icon": "rbxassetid://117125554554833",
+    "Perks": {
+      "Coins": 0.2,
+      "DMG": 0.425,
+      "Luck": 0.1
+    },
+    "Rarity": "Mythical",
+    "Name": "Viking"
+  },
+  "Fortune": {
+    "Icon": "rbxassetid://78755193818054",
+    "Perks": {
+      "Coins": 0.05
+    },
+    "Rarity": "Common",
+    "Name": "Fortune"
+  },
+  "Vigor III": {
+    "Icon": "rbxassetid://119651034043259",
+    "Perks": {
+      "DMG": 0.15
+    },
+    "Rarity": "Epic",
+    "Name": "Vigor III"
+  },
+  "Clover II": {
+    "Icon": "rbxassetid://126545104319954",
+    "Perks": {
+      "Luck": 0.15
+    },
+    "Rarity": "Legendary",
+    "Name": "Clover II"
+  },
+  "Scholar": {
+    "Icon": "rbxassetid://79946974784378",
+    "Perks": {
+      "EXP": 0.1
+    },
+    "Rarity": "Legendary",
+    "Name": "Scholar"
+  },
+  "Vigor II": {
+    "Icon": "rbxassetid://119651034043259",
+    "Perks": {
+      "DMG": 0.1
+    },
+    "Rarity": "Rare",
+    "Name": "Vigor II"
+  },
+  "Rising": {
+    "Icon": "rbxassetid://138491756482225",
+    "Perks": {
+      "Coins": 0.25,
+      "DMG": 0.3,
+      "SPA": 0.1,
+      "EXP": 0.1
+    },
+    "Rarity": "Mythical",
+    "Name": "Rising"
+  },
+  "Vigor": {
+    "Icon": "rbxassetid://119651034043259",
+    "Perks": {
+      "DMG": 0.05
+    },
+    "Rarity": "Common",
+    "Name": "Vigor"
+  },
+  "Fortune III": {
+    "Icon": "rbxassetid://78755193818054",
+    "Perks": {
+      "Coins": 0.25
+    },
+    "Rarity": "Epic",
+    "Name": "Fortune III"
+  },
+  "Swift": {
+    "Icon": "rbxassetid://95288582793750",
+    "Perks": {
+      "SPA": 0.03
+    },
+    "Rarity": "Common",
+    "Name": "Swift"
+  },
+  "Clover I": {
+    "Icon": "rbxassetid://126545104319954",
+    "Perks": {
+      "Luck": 0.1
+    },
+    "Rarity": "Epic",
+    "Name": "Clover I"
+  },
+  "Fortune II": {
+    "Icon": "rbxassetid://78755193818054",
+    "Perks": {
+      "Coins": 0.15
+    },
+    "Rarity": "Rare",
+    "Name": "Fortune II"
+  },
+  "Swift III": {
+    "Icon": "rbxassetid://95288582793750",
+    "Perks": {
+      "SPA": 0.07
+    },
+    "Rarity": "Epic",
+    "Name": "Swift III"
+  },
+  "Clover III": {
+    "Icon": "rbxassetid://126545104319954",
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Rarity": "Mythical",
+    "Name": "Clover III"
+  }
+}

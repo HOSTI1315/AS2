@@ -1,0 +1,265 @@
+{
+  "Marine Island": {
+    "Kaku": {
+      "Difficult": "Easy",
+      "Health": "550K",
+      "Name": "Kaku"
+    },
+    "Shiriu": {
+      "Difficult": "Medium",
+      "Health": "1.5M",
+      "Name": "Shiriu"
+    },
+    "Crocodele": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Relic",
+          "SandCloak",
+          10
+        ],
+        [
+          "Item",
+          "PlasmaShard",
+          50
+        ]
+      ],
+      "Health": "250M",
+      "Name": "Crocodele"
+    },
+    "Buggi": {
+      "Difficult": "Boss",
+      "Health": "50M",
+      "Name": "Buggi"
+    },
+    "Figarlend": {
+      "Difficult": "Impossible",
+      "Health": "17.5M",
+      "Name": "Figarlend"
+    },
+    "Riokugiu": {
+      "Difficult": "Hard",
+      "Health": "5M",
+      "Name": "Riokugiu"
+    }
+  },
+  "Slayer Island": {
+    "Ruih": {
+      "Difficult": "Medium",
+      "Health": "45K",
+      "Name": "Ruih"
+    },
+    "Enmo": {
+      "Difficult": "Easy",
+      "Health": "17.5K",
+      "Name": "Enmo"
+    },
+    "Kokoshibo": {
+      "Difficult": "Boss",
+      "Health": "850K",
+      "Name": "Kokoshibo"
+    },
+    "Susamaro": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Relic",
+          "SlayerBox",
+          70
+        ],
+        [
+          "Item",
+          "TalentCapsule",
+          50
+        ]
+      ],
+      "Health": "2.5M",
+      "Name": "Susamaro"
+    },
+    "Dake": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Relic",
+          "DrumOni",
+          50
+        ],
+        [
+          "Item",
+          "TalentCapsule",
+          50
+        ]
+      ],
+      "Health": "12.5M",
+      "Name": "Dake"
+    },
+    "Gyutaru": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Relic",
+          "PinkBands",
+          50
+        ],
+        [
+          "Item",
+          "TalentCapsule",
+          50
+        ]
+      ],
+      "Health": "35M",
+      "Name": "Gyutaru"
+    },
+    "Akazha": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Relic",
+          "MuzansClaw",
+          50
+        ],
+        [
+          "Item",
+          "TalentCapsule",
+          50
+        ]
+      ],
+      "Health": "100M",
+      "Name": "Akazha"
+    },
+    "Hantego": {
+      "Difficult": "Hard",
+      "Health": "115K",
+      "Name": "Hantego"
+    },
+    "Dhoma": {
+      "Difficult": "Impossible",
+      "Health": "300K",
+      "Name": "Dhoma"
+    }
+  },
+  "Dragon World": {
+    "Androidi": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Accessory",
+          "RedPower",
+          50
+        ]
+      ],
+      "Health": "35M",
+      "Name": "Androidi"
+    },
+    "Broli": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Accessory",
+          "SayanPrince",
+          50
+        ]
+      ],
+      "Health": "200M",
+      "Name": "Broli"
+    },
+    "Frieza": {
+      "Difficult": "Impossible",
+      "Health": "1.25M",
+      "Name": "Frieza"
+    },
+    "Boo": {
+      "Difficult": "Medium",
+      "Health": "200K",
+      "Name": "Boo"
+    },
+    "GokoBlack": {
+      "Difficult": "Hard",
+      "Health": "550K",
+      "Name": "Goko Black"
+    },
+    "Jeren": {
+      "Difficult": "Boss",
+      "Health": "4M",
+      "Name": "Jeren"
+    },
+    "Zell": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Accessory",
+          "GreenPower",
+          50
+        ]
+      ],
+      "Health": "60M",
+      "Name": "Zell"
+    },
+    "Zamaso": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Accessory",
+          "BluePower",
+          50
+        ]
+      ],
+      "Health": "115M",
+      "Name": "Zamaso"
+    },
+    "Couler": {
+      "Difficult": "Raid Boss",
+      "Drops": [
+        [
+          "Accessory",
+          "GranolaEyes",
+          50
+        ],
+        [
+          "Accessory",
+          "Kami",
+          50
+        ]
+      ],
+      "Health": "10M",
+      "Name": "Couler"
+    },
+    "Gran": {
+      "Difficult": "Easy",
+      "Health": "60K",
+      "Name": "Gran"
+    }
+  },
+  "Shadow City": {
+    "DummyTest": {
+      "Difficult": "Test",
+      "Health": Infinity,
+      "Name": "Dummy Test"
+    },
+    "SwordGuardian": {
+      "Difficult": "Hard",
+      "Health": "7.5K",
+      "Name": "Sword Guardian"
+    },
+    "SingerGuardian": {
+      "Difficult": "Impossible",
+      "Health": "35K",
+      "Name": "Singer Guardian"
+    },
+    "AxeGuardian": {
+      "Difficult": "Medium",
+      "Health": "1300",
+      "Name": "Axe Guardian"
+    },
+    "MaceGuardian": {
+      "Difficult": "Easy",
+      "Health": "225",
+      "Name": "Mace Guardian"
+    },
+    "KingGuardian": {
+      "Difficult": "Boss",
+      "Health": "125K",
+      "Name": "King Guardian"
+    }
+  }
+}

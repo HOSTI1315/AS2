@@ -1,0 +1,309 @@
+{
+  "Inosuki": {
+    "Rarity": "Common",
+    "Custom_Run": "Dual",
+    "Custom_Idle": "Dual",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 35,
+    "World": "Slayer Island",
+    "Name": "Inosuki",
+    "SPA": 1.55,
+    "AttackCount": 7
+  },
+  "Jinhoo": {
+    "World": "Shadow City",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 22,
+    "AttackCount": 7,
+    "Damage": 7.0,
+    "SPA": 1.55,
+    "Name": "Jinhoo"
+  },
+  "Luffi": {
+    "World": "Marine Island",
+    "Rarity": "Secret",
+    "Ultimate_Multiplier": 87,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.25,
+    "Name": "Luffi"
+  },
+  "SonGoko": {
+    "World": "Dragon World",
+    "Rarity": "Mythical",
+    "Ultimate_Multiplier": 45,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.3,
+    "Name": "Son Goko"
+  },
+  "Hae": {
+    "Rarity": "Epic",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.0,
+    "Ultimate_Multiplier": 24,
+    "World": "Shadow City",
+    "Name": "Hae",
+    "SPA": 1.45,
+    "AttackCount": 7
+  },
+  "Kurerin": {
+    "World": "Dragon World",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 54,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.55,
+    "Name": "Kurerin"
+  },
+  "Kume": {
+    "World": "Marine Island",
+    "Rarity": "Epic",
+    "Ultimate_Multiplier": 52,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.45,
+    "Name": "Kume"
+  },
+  "Igros": {
+    "Rarity": "Mythical",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.0,
+    "Ultimate_Multiplier": 24,
+    "World": "Shadow City",
+    "Name": "Igros",
+    "SPA": 1.3,
+    "AttackCount": 7
+  },
+  "Rogeri": {
+    "Rarity": "Secret",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 8.955518709686467,
+    "Ultimate_Multiplier": 84.5,
+    "World": "Marine Island",
+    "Name": "Rogeri",
+    "SPA": 1.25,
+    "AttackCount": 7
+  },
+  "Edwerd": {
+    "World": "Marine Island",
+    "Rarity": "Mythical",
+    "Ultimate_Multiplier": 55,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.3,
+    "Name": "Edwerd"
+  },
+  "Baek": {
+    "World": "Shadow City",
+    "Rarity": "Rare",
+    "Ultimate_Multiplier": 22.5,
+    "AttackCount": 7,
+    "Damage": 7.0,
+    "SPA": 1.5,
+    "Name": "Baek"
+  },
+  "Sung": {
+    "Rarity": "Secret",
+    "Custom_Run": "Dagger",
+    "Custom_Idle": "Dagger",
+    "Damage": 7.0,
+    "Ultimate_Multiplier": 57,
+    "World": "Shadow City",
+    "Name": "Sung",
+    "SPA": 1.25,
+    "AttackCount": 7
+  },
+  "Baruke": {
+    "Rarity": "Exclusive",
+    "Custom_Run": "Dagger",
+    "Custom_Idle": "Dagger",
+    "Damage": 7.0,
+    "Ultimate_Multiplier": 17,
+    "World": "Shadow City",
+    "Name": "Baruke",
+    "SPA": 1.35,
+    "AttackCount": 7
+  },
+  "Hawk": {
+    "Rarity": "Secret",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 8.257686082957651,
+    "Ultimate_Multiplier": 85,
+    "World": "Marine Island",
+    "Name": "Hawk",
+    "SPA": 1.25,
+    "AttackCount": 7
+  },
+  "Zoru": {
+    "Rarity": "Rare",
+    "Custom_Run": "Dual",
+    "Custom_Idle": "Dual",
+    "Damage": 8.141380645169516,
+    "Ultimate_Multiplier": 53,
+    "World": "Marine Island",
+    "Name": "Zoru",
+    "SPA": 1.5,
+    "AttackCount": 7
+  },
+  "Hwan": {
+    "Rarity": "Legendary",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.0,
+    "Ultimate_Multiplier": 22.5,
+    "World": "Shadow City",
+    "Name": "Hwan",
+    "SPA": 1.4,
+    "AttackCount": 7
+  },
+  "Marce": {
+    "World": "Marine Island",
+    "Rarity": "Legendary",
+    "Ultimate_Multiplier": 55.5,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.4,
+    "Name": "Marce"
+  },
+  "Nezoko": {
+    "World": "Slayer Island",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 35,
+    "AttackCount": 7,
+    "Damage": 7.3500000000000005,
+    "SPA": 1.55,
+    "Name": "Nezoko"
+  },
+  "Sabu": {
+    "World": "Marine Island",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 57.8,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.55,
+    "Name": "Sabu"
+  },
+  "Zenitso": {
+    "Rarity": "Rare",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 34,
+    "World": "Slayer Island",
+    "Name": "Zenitso",
+    "SPA": 1.5,
+    "AttackCount": 7
+  },
+  "Vegita": {
+    "World": "Dragon World",
+    "Rarity": "Legendary",
+    "Ultimate_Multiplier": 42,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.4,
+    "Name": "Vegita"
+  },
+  "Yoriche": {
+    "Rarity": "Secret",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 69,
+    "World": "Slayer Island",
+    "Name": "Yoriche",
+    "SPA": 1.25,
+    "AttackCount": 7
+  },
+  "Rengoko": {
+    "Rarity": "Mythical",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 39,
+    "World": "Slayer Island",
+    "Name": "Rengoko",
+    "SPA": 1.3,
+    "AttackCount": 7
+  },
+  "Gogita": {
+    "World": "Dragon World",
+    "Rarity": "Secret",
+    "Ultimate_Multiplier": 71,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.25,
+    "Name": "Gogita"
+  },
+  "Shinobo": {
+    "Rarity": "Legendary",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 35.5,
+    "World": "Slayer Island",
+    "Name": "Shinobo",
+    "SPA": 1.4,
+    "AttackCount": 7
+  },
+  "Kobi": {
+    "World": "Marine Island",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 58.5,
+    "AttackCount": 7,
+    "Damage": 8.141380645169516,
+    "SPA": 1.55,
+    "Name": "Kobi"
+  },
+  "Piccolu": {
+    "World": "Dragon World",
+    "Rarity": "Rare",
+    "Ultimate_Multiplier": 47,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.5,
+    "Name": "Piccolu"
+  },
+  "Whes": {
+    "World": "Dragon World",
+    "Rarity": "Epic",
+    "Ultimate_Multiplier": 50,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.45,
+    "Name": "Whes"
+  },
+  "WeakestHunter": {
+    "World": "Shadow City",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 22,
+    "AttackCount": 7,
+    "Damage": 7.0,
+    "SPA": 1.55,
+    "Name": "Weakest Hunter"
+  },
+  "Trunkis": {
+    "World": "Dragon World",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 51,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.55,
+    "Name": "Trunkis"
+  },
+  "Tanjiru": {
+    "Rarity": "Epic",
+    "Custom_Run": "Sword",
+    "Custom_Idle": "Sword",
+    "Damage": 7.3500000000000005,
+    "Ultimate_Multiplier": 28.5,
+    "World": "Slayer Island",
+    "Name": "Tanjiru",
+    "SPA": 1.45,
+    "AttackCount": 7
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Luck II": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 4 hours",
+      "Amount": 240
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck II"
+  },
+  "Luck V": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 240 hours (10 Day)",
+      "Amount": 14400
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Hard",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck V"
+  },
+  "Luck VII": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 720 hours (30 Day)",
+      "Amount": 43200
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Impossible",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck VII"
+  },
+  "Luck IV": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 96 hours (4 Day)",
+      "Amount": 5760
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck IV"
+  },
+  "Luck I": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 30 minutes",
+      "Amount": 30
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Easy",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck I"
+  },
+  "Luck VI": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 480 hours (20 Day)",
+      "Amount": 28800
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Hard",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck VI"
+  },
+  "Luck III": {
+    "Mission": {
+      "Type": "Playtime",
+      "Desc": "Play for 24 hours (1 Day)",
+      "Amount": 1440
+    },
+    "Perks": {
+      "Luck": 0.25
+    },
+    "Difficult": "Medium",
+    "Desc": "Increases your chances of opening rare shadows",
+    "Icon": "rbxassetid://86580401218046",
+    "Name": "Luck III"
+  }
+}

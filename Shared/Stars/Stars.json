@@ -1,0 +1,146 @@
+{
+  "Marine Island": {
+    "Level": 20,
+    "List": [
+      [
+        "Common",
+        "Kobi"
+      ],
+      [
+        "Common",
+        "Sabu"
+      ],
+      [
+        "Rare",
+        "Zoru"
+      ],
+      [
+        "Epic",
+        "Kume"
+      ],
+      [
+        "Legendary",
+        "Marce"
+      ],
+      [
+        "Mythical",
+        "Edwerd"
+      ],
+      [
+        "Secret",
+        "Luffi"
+      ]
+    ],
+    "Price": "27500",
+    "Luck_Boost": 1,
+    "Name": "Marine Island"
+  },
+  "Slayer Island": {
+    "Level": 5,
+    "List": [
+      [
+        "Common",
+        "Nezoko"
+      ],
+      [
+        "Common",
+        "Inosuki"
+      ],
+      [
+        "Rare",
+        "Zenitso"
+      ],
+      [
+        "Epic",
+        "Tanjiru"
+      ],
+      [
+        "Legendary",
+        "Shinobo"
+      ],
+      [
+        "Mythical",
+        "Rengoko"
+      ],
+      [
+        "Secret",
+        "Yoriche"
+      ]
+    ],
+    "Price": "750",
+    "Luck_Boost": 1,
+    "Name": "Slayer Island"
+  },
+  "Dragon World": {
+    "Level": 15,
+    "List": [
+      [
+        "Common",
+        "Kurerin"
+      ],
+      [
+        "Common",
+        "Trunkis"
+      ],
+      [
+        "Rare",
+        "Piccolu"
+      ],
+      [
+        "Epic",
+        "Whes"
+      ],
+      [
+        "Legendary",
+        "Vegita"
+      ],
+      [
+        "Mythical",
+        "SonGoko"
+      ],
+      [
+        "Secret",
+        "Gogita"
+      ]
+    ],
+    "Price": "3550",
+    "Luck_Boost": 1,
+    "Name": "Dragon World"
+  },
+  "Shadow City": {
+    "Level": 1,
+    "List": [
+      [
+        "Common",
+        "WeakestHunter"
+      ],
+      [
+        "Common",
+        "Jinhoo"
+      ],
+      [
+        "Rare",
+        "Baek"
+      ],
+      [
+        "Epic",
+        "Hae"
+      ],
+      [
+        "Legendary",
+        "Hwan"
+      ],
+      [
+        "Mythical",
+        "Igros"
+      ],
+      [
+        "Secret",
+        "Sung"
+      ]
+    ],
+    "Price": "10",
+    "Luck_Boost": 1.5,
+    "Name": "Shadow City"
+  }
+}

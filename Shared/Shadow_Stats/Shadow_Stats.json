@@ -1,0 +1,8 @@
+{
+  "level_expect": "<function>",
+  "get_damage": "<function>",
+  "exp_for_next_level": "<function>",
+  "calculate_stats_with_multiplier": "<function>",
+  "exp_from_fuse": "<function>",
+  "calculate_stats": "<function>"
+}

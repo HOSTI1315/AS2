@@ -1,0 +1,65 @@
+{
+  "Vegita": {
+    "World": "Dragon World",
+    "Rarity": "Legendary",
+    "Ultimate_Multiplier": 42,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.4,
+    "Name": "Vegita"
+  },
+  "Trunkis": {
+    "World": "Dragon World",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 51,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.55,
+    "Name": "Trunkis"
+  },
+  "Piccolu": {
+    "World": "Dragon World",
+    "Rarity": "Rare",
+    "Ultimate_Multiplier": 47,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.5,
+    "Name": "Piccolu"
+  },
+  "Whes": {
+    "World": "Dragon World",
+    "Rarity": "Epic",
+    "Ultimate_Multiplier": 50,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.45,
+    "Name": "Whes"
+  },
+  "Gogita": {
+    "World": "Dragon World",
+    "Rarity": "Secret",
+    "Ultimate_Multiplier": 71,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.25,
+    "Name": "Gogita"
+  },
+  "Kurerin": {
+    "World": "Dragon World",
+    "Rarity": "Common",
+    "Ultimate_Multiplier": 54,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.55,
+    "Name": "Kurerin"
+  },
+  "SonGoko": {
+    "World": "Dragon World",
+    "Rarity": "Mythical",
+    "Ultimate_Multiplier": 45,
+    "AttackCount": 7,
+    "Damage": 7.7536958525423945,
+    "SPA": 1.3,
+    "Name": "Son Goko"
+  }
+}

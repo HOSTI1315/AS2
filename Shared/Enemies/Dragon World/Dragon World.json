@@ -1,0 +1,92 @@
+{
+  "Androidi": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Accessory",
+        "RedPower",
+        50
+      ]
+    ],
+    "Health": "35M",
+    "Name": "Androidi"
+  },
+  "Broli": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Accessory",
+        "SayanPrince",
+        50
+      ]
+    ],
+    "Health": "200M",
+    "Name": "Broli"
+  },
+  "Frieza": {
+    "Difficult": "Impossible",
+    "Health": "1.25M",
+    "Name": "Frieza"
+  },
+  "Boo": {
+    "Difficult": "Medium",
+    "Health": "200K",
+    "Name": "Boo"
+  },
+  "GokoBlack": {
+    "Difficult": "Hard",
+    "Health": "550K",
+    "Name": "Goko Black"
+  },
+  "Jeren": {
+    "Difficult": "Boss",
+    "Health": "4M",
+    "Name": "Jeren"
+  },
+  "Zell": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Accessory",
+        "GreenPower",
+        50
+      ]
+    ],
+    "Health": "60M",
+    "Name": "Zell"
+  },
+  "Zamaso": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Accessory",
+        "BluePower",
+        50
+      ]
+    ],
+    "Health": "115M",
+    "Name": "Zamaso"
+  },
+  "Couler": {
+    "Difficult": "Raid Boss",
+    "Drops": [
+      [
+        "Accessory",
+        "GranolaEyes",
+        50
+      ],
+      [
+        "Accessory",
+        "Kami",
+        50
+      ]
+    ],
+    "Health": "10M",
+    "Name": "Couler"
+  },
+  "Gran": {
+    "Difficult": "Easy",
+    "Health": "60K",
+    "Name": "Gran"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Level": 20,
+  "List": [
+    [
+      "Common",
+      "Kobi"
+    ],
+    [
+      "Common",
+      "Sabu"
+    ],
+    [
+      "Rare",
+      "Zoru"
+    ],
+    [
+      "Epic",
+      "Kume"
+    ],
+    [
+      "Legendary",
+      "Marce"
+    ],
+    [
+      "Mythical",
+      "Edwerd"
+    ],
+    [
+      "Secret",
+      "Luffi"
+    ]
+  ],
+  "Price": "27500",
+  "Luck_Boost": 1,
+  "Name": "Marine Island"
+}
